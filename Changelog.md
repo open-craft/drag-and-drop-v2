@@ -1,6 +1,11 @@
 Drag and Drop XBlock changelog
 ==============================
 
+Version 2.3.6 (2021-06-16)
+---------------------------
+
+* Reduce drag delay on mobile devices.
+
 Version 2.3.5 (2021-03-09)
 ---------------------------
 
